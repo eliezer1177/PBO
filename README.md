@@ -1,2 +1,2 @@
-javac PBO/Hitung.java
-java -cp . PBO..Hitung
+javac */Main.java
+java -cp . PBO.Hitung
