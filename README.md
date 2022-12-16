@@ -1,2 +1,2 @@
-javac */Main.java
-java -cp . PBO.Hitung
+Eliezer Renden Rambupadang
+Universitas Hasanuddin
