@@ -1,2 +1,2 @@
 Eliezer Renden Rambupadang
-Universitas Hasanuddin
+
